@@ -1,0 +1,17 @@
+-Version Control
+-Change Control
+-Collaboration
+
+	Frist Set-Up
+1. git config --global user.name ""
+2. git config --global user.email ""
+
+	Second Set-Up
+1. git init
+2. git add (file name)
+3. git status
+
+1. git add (file name)
+2. git restore (file name)
+
+My name is Giyas Uddin B
