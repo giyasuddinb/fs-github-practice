@@ -10,8 +10,18 @@
 1. git init
 2. git add (file name)
 3. git status
+4. git diff
 
 1. git add (file name)
 2. git restore (file name)
 
-My name is Giyas Uddin B
+	Local Repo
+1. git commit -m (comment)
+2. git log  (histi)
+3. git log --oneline
+
+	Remot Repo
+1. git remote add 
+2. git remote (Check cmd)
+3. git remote -v (details Check cmd)
+
